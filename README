@@ -1,0 +1,4 @@
+ This is the ".mod" file for non strictly complementarity constraints for the paper ' Non Strictly Complementary test set examples for nonlinear programming: Benchmark with IPOPT2, KNITRO and LOQO' 
+ - in  hs/ : weakly active problems from Hock and Schittkowski collection,
+ - in schittkowski : weakly active problems from  Schittkowski collection,
+ - in cute/ : weakly active problems from cute collection of bongartz et al.
