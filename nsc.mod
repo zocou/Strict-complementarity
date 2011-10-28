@@ -1,6 +1,7 @@
 # Example of non strictly complementary constraints
-# from Wright and Orban (section 4), properties of the log-barrier
-# function on degenerate nonlinear program 
+# from example 1, section 1, Fast local convergence of IPM in 
+#the Absence of Strict Complementarity, Z. Coulibaly, N. I. M. 
+# Gould and D. Orban, work in progress 
 
 # Number of variables:   1
 # Number of constraints: 1
