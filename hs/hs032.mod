@@ -1,9 +1,9 @@
-# Hock -Schittkowski collection problem number 17
+# Hock -Schittkowski collection problem number 32
 # Solution                         : x* = (0, 0, 1),
 # Optimal value                    : f(x*) = 1
-# Active constraints at x*          : {2, 3}
-# Lagrange multipliers umax*/umin* : 4/0 = 
-# Non strictly complementary constraints : x[1] >= 0 
+# Active constraints at x*          : constr2 and bound x[1] >= 0 
+# Lagrange multipliers umax*/umin* : 4/0  
+# Non strictly complementary constraints : bound x[1] >= 0 
 
 #   classification QOR2-MN-3-5
 
